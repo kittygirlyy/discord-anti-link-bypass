@@ -12,6 +12,18 @@
 
 ---
 
+## 👩‍💻 Author
+
+<p align="left">
+  <a href="https://discord.com/users/921518780876738602">
+    <img src="https://img.shields.io/badge/Discord-%40lauradieuse-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+  </a>
+  <a href="https://github.com/kittygirlyy">
+    <img src="https://img.shields.io/badge/GitHub-@kittygirlyy-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge"/>
+  </a>
+</p>
+
+
 ## 🛠️ What it does
 
 - 🔁 Asks for a URL
